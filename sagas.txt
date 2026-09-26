@@ -1,0 +1,6 @@
+fråga om hela grejen hur det funkar
+    hur bröjar det
+    rent beurokratiskt
+    finns det anledning att involvera något företag för att få bra data/ideer?
+Mer specifikt kring ideer
+    mri https://github.com/JinqianPan/MRISeqClassifier
